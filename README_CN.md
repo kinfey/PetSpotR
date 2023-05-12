@@ -1,6 +1,6 @@
 # PetSpotR
 
-## 🛠️ 如果您需要参加 Workshop，请跳转到 [workshop](workshop/README.md) 文件夹开始！ 🛠️
+## 🛠️ 如果您需要参加 Workshop，请跳转到 [workshop](workshop/README_CN.md) 文件夹开始！ 🛠️
 
 ---
 
